@@ -13,7 +13,7 @@ Design and implement a genetic programming system to evolve some perceptrons tha
 
 1. Fitness Function:
 
-   
+   I try two fitness functions: accuracy & F1-score.
 
 2. Crossover operator
 
