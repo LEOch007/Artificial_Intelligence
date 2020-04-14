@@ -9,7 +9,7 @@ Design and implement a genetic programming system to evolve some perceptrons tha
 5. What’s the size of the initial generation, and how are programs generated?
 6. When do you stop the evolution? Evolve it up to a fixed iteration, when it satisfies a condition on the fitness function, or a combination of the two?
 
-
+---
 
 1. Fitness Function:
 
